@@ -7,7 +7,6 @@ Twitter (X) @at9kat: https://twitter.com/at9kat
 Instagram @t___abdessamad__: https://www.instagram.com/t___abdessamad__/
 Website: https://katskydio.wordpress.com/ or directly links: https://lnk.bio/katskystudio
 Github: https://www.github.com/AbdessamadTzn
-
 '''
 import random
 import time
